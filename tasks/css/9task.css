@@ -1,0 +1,25 @@
+
+    figure {
+        margin-top: 75px;
+    }
+    .image1 {
+        margin-left: 130px;
+        top: 2px;
+        position: relative;
+        transform: rotate(-15deg);
+
+    }
+
+    .image2 {
+        position: relative;
+        right: 120px;
+        
+    }
+
+    .image3 {
+        position: relative;
+        right: 240px;
+        top: 2px;
+        transform: rotate(15deg);
+        
+    }

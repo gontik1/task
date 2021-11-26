@@ -1,0 +1,32 @@
+p {
+    color: #656565; 
+    padding-top: 6px;
+}
+
+a {
+    padding: 5px 10px;
+    text-decoration: none;
+    background: #ebe8df;
+    color: #aa8845;
+    border: 1px solid #dad6cf;
+}
+.one {
+    background: #a44823;
+    color: #fff;
+    border-color: #7b3418;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    float: right;
+}
+li {
+    float: left;
+    margin-left: 3px;
+}
+
+
+
+
+

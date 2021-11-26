@@ -1,0 +1,32 @@
+.block {
+    background: #795548;
+    padding: 40px;
+    color: #fff;
+    font-family: inherit;
+    }
+
+    .block h2 {
+    color: #feea3b;
+    overflow: hidden;
+    font-weight: normal;
+    margin-top: 0;
+    text-align: center;
+    }
+
+    .block h2::after , .block h2::before{
+    content: '';
+    background: #feea3b;
+    display: inline-block;
+    height: 2px;
+    position: relative;
+    vertical-align: middle;
+    width: 50%;
+    }
+    .block h2::before {
+    right: 20px;
+    margin-left: -50%;
+    }
+    .block h2::after {
+    left: 20px;
+    margin-right: -50%;
+    }

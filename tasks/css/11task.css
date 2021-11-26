@@ -1,0 +1,37 @@
+.contener {
+    width: 300px;
+    color: #777;
+    background: #fff;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
+
+
+.info {
+    text-align: center;
+    padding: 10px 20px 20px;
+}
+
+.info h2 {
+    color: #333;
+    margin-top: 0;
+    font-weight: normal;
+}
+
+.info h2::after {
+    content: '';
+    display: block;
+    width: 30px;
+    margin: 10px auto;
+    border-bottom: 5px dotted #fd644a;
+}
+
+
+
+button {
+    background: #fd644a;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    margin-top: 10px;
+    border-radius: 20px;
+}

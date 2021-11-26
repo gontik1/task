@@ -1,0 +1,23 @@
+
+body {
+    margin: 0;
+}
+
+
+.element1 {
+    background: #a1bd57;
+    padding: 150px 0;
+}
+
+
+.element2 {
+    background: white;
+    border: 3px solid #dad6cf;
+    margin: 0px 200px;
+    padding: 100px;
+    position: relative;
+    top: -100px;
+}
+.element3 {
+    background: #f7f6f2;
+}

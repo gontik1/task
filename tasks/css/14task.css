@@ -1,0 +1,29 @@
+.head {
+    background: #b41a83;
+    padding: 8px;
+    position: fixed;
+    width: 100%;
+}
+
+.line ul{
+    margin: 0; 
+    padding: 4px; 
+}
+
+.line ul ,li {
+    display: inline;
+    margin-right: 15px; 
+    padding: 5px;
+
+}
+
+a {
+    color: #ffff;
+    text-decoration: none;
+    
+}
+
+a:hover {
+    text-decoration: underline;
+}
+

@@ -1,0 +1,31 @@
+
+h3 {
+    color: #a1bd57;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.link td:nth-child(3) {
+    text-align: center;
+    margin-right: 50px;
+    border: 1px solid #e6e1d7;
+    background: #e6e1d7;
+    border-radius: 100px ;
+
+} 
+.link td:nth-child(2) {
+    padding-right: 200px;
+}
+
+a {
+    text-decoration: none ;
+    color: #a44823;
+}
+.link a:hover {
+    text-decoration: none
+}
+
+.link a:active {
+    color: rgb(46, 3, 17);
+}
+

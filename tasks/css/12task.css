@@ -1,0 +1,30 @@
+
+
+table {
+    border: 1px solid #eeeff0;
+    width: 500px;
+    text-align: left;
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.one {
+    font-size: 20px
+}
+.table td:nth-child(2) {
+    text-align: right;
+}
+
+.table th:nth-child(2) {
+    text-align: right;
+}
+
+td ,th{
+    padding-top: 15px;
+    border-bottom: 1px solid #eeeff0;
+}
+.total {
+    color: #54a4de;
+    font-size: 20px;
+}

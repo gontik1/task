@@ -1,0 +1,22 @@
+body {
+    background: #B6D554;
+}
+
+.login div {
+    margin-top: 15px; 
+}
+
+.login {
+    background: #fff;
+    width: 300px; 
+    margin: auto; 
+    padding: 30px; 
+    box-shadow: 0 0 5px rgba(0,0,0,0.5);
+    box-sizing: border-box; 
+}
+
+.login input { 
+    padding: 10px; 
+    box-sizing: border-box; 
+    width: 100%;
+}
