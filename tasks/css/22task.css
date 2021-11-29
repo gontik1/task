@@ -18,11 +18,6 @@ h3 {
     box-sizing: border-box; 
 }
 
-/* .login input { 
-    padding: 10px; 
-    box-sizing: border-box; 
-    width: 340px;
-} */
 
 .t {
     padding: 10px; 
@@ -37,6 +32,6 @@ h3 {
 }
 
 .chek{
-    
+    margin-left: 220px;
 }
 
